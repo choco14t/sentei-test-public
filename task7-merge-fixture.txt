@@ -1,0 +1,4 @@
+Sentei conditional merge fixture
+SHA guarded individual merge
+
+update text
