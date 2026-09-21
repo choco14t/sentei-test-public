@@ -1,0 +1,3 @@
+Sentei review validation
+日本語のインラインコメント対象
+Second review line
